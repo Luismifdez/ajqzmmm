@@ -262,3 +262,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x59ef4c963"}
 {"jsonrpc":"2.0","id":1,"result":"0x5f7c532a3"}
 {"error":"{\"Error_GUID\":\"5700755834415884374\",\"Error\":\"Failed all relay retries due to timeout consider adding 'lava-relay-timeout' header to extend the allowed timeout duration {GUID:5700755834415884374}\"}"}
+{"jsonrpc":"2.0","id":1,"result":"0x4f4ce025e"}
